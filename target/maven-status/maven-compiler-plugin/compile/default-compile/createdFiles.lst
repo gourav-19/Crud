@@ -1,0 +1,9 @@
+models/EventDto.class
+models/EventsDto.class
+models/Event.class
+conf/Routes.class
+controllers/EventController.class
+conf/Filters.class
+controllers/EventControllerImpl.class
+dao/EventDao.class
+controllers/ApiController.class
