@@ -1,2 +1,2 @@
 # Crud
-crud operations using ninja framework
+crud operations using ninja framework+postgresql
